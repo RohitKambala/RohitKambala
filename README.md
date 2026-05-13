@@ -1,7 +1,7 @@
 ## Rohit Kambala
 
 MPH Biostatistics · NYU School of Global Public Health  
-B.Pharm · RGUHS Karnataka
+B.Pharm 
 
 **Methods:** Clinical trial statistics · Survival analysis · Real-world evidence · Machine learning  
 **Tools:** R · SAS · Python  
