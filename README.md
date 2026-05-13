@@ -1,16 +1,17 @@
-## Hi there 👋
+## Rohit Kambala
 
-<!--
-**RohitKambala/RohitKambala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MPH Biostatistics · NYU School of Global Public Health  
+B.Pharm · RGUHS Karnataka
 
-Here are some ideas to get you started:
+**Methods:** Clinical trial statistics · Survival analysis · Real-world evidence · Machine learning  
+**Tools:** R · SAS · Python  
+**Domain:** Pharmaceutical sciences · Pharmacology · PK/PD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 New York City &nbsp;|&nbsp; 🎓 Graduating Spring 2027
+
+---
+
+### Featured work
+- 🔬 [Survival analysis of breast cancer — SEER registry](https://github.com/RohitKambala/seer-survival-analysis) — KM + Cox PH, Schoenfeld diagnostics
+- 💊 [Observational treatment effect — statins & LDL](https://github.com/RohitKambala/obs-treatment-effect-statin-ldl) — Causal inference, propensity methods
+- 🤖 [CHD risk prediction — Framingham](https://github.com/RohitKambala/framingham-chd-prediction) — Logistic, RF, XGBoost, DeLong test
